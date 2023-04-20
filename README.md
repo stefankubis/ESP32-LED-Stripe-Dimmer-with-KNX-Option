@@ -1,13 +1,18 @@
-# ESP32-LED-Stripe-Dimmer-with-KNX-Option
+# ESP32 LED Stripe Dimmer with KNX Option
 ESP32 LED Stripe Dimmer with KNX Option
+
+![PCB Image](https://github.com/stefankubis/ESP32-LED-Stripe-Dimmer-with-KNX-Option/raw/main/dimmer.png)
+
+Created with KiCad
 
 # Part List
 
-|Qty|Type|Value|
-|1|ESP32-DEVKITC||
-12|Transistor NPN|2N2222A|
-|6|Transistor NMOS|IRFZ44N|
-|1|Voltage Regulator|L7805|
+| Qty | Type | Value |
+| --- | ---- | ----- |
+| 1 | ESP32-DEVKITC ||
+12|Transistor 2N2222A||
+|6|Transistor IRFZ44N||
+|1|Voltage Regulator L7805||
 |12|Resistor|10k|
 |6|Resistor|1k|
 |1|Capacitor|0.1μF|
