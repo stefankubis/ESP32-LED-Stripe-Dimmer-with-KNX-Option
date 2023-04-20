@@ -3,7 +3,7 @@ ESP32 LED Stripe Dimmer with KNX Option
 
 ![PCB Image](https://github.com/stefankubis/ESP32-LED-Stripe-Dimmer-with-KNX-Option/raw/main/dimmer.png)
 
-
+Created with KiCad
 
 # Part List
 
