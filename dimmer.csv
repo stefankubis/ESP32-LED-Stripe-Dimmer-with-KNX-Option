@@ -1,0 +1,6 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","Q1, Q2","2","NPN","Package_TO_SOT_THT:TO-92",""
+"2","Q3","1","NMOS","Package_TO_SOT_THT:TO-220-3_Vertical",""
+"3","R1, R2, R3","3","10k","",""
+"4","R4","1","1K","",""
+"5","U1","1","L7805","Package_TO_SOT_THT:TO-220-3_Vertical",""
